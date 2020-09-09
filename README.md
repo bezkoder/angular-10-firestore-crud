@@ -1,6 +1,28 @@
-# Angular10FirestoreCrud
+# Angular 10 Firestore CRUD App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+For more detail, please visit:
+> [Angular 10 Firestore CRUD: add/get/update/delete documents with AngularFireStore](https://bezkoder.com/angular-10-firestore-crud-angularfire/)
+
+More Practice:
+> [Angular 10 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-10-firebase-crud/)
+
+> [Angular 10 CRUD application example with Web API](https://bezkoder.com/angular-10-crud-app/)
+
+Fullstack with Node.js Express:
+> [Angular 10 + Node.js Express + MySQL](https://bezkoder.com/angular-10-node-js-express-mysql/)
+
+> [Angular 10 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-10-node-express-postgresql/)
+
+> [Angular 10 + Node.js Express + MongoDB](https://bezkoder.com/angular-10-mongodb-node-express/)
+
+Fullstack with Spring Boot:
+> [Angular 10 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-10-spring-boot-crud/)
+
+> [Angular 10 + Spring Boot + MongoDB](https://bezkoder.com/angular-10-spring-boot-mongodb/)
+
+Fullstack with Django:
+
+> [Angular 10 + Django Rest Framework](https://bezkoder.com/django-angular-10-crud-rest-framework/)
 
 ## Development server
 
