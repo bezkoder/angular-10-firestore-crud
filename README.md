@@ -6,6 +6,8 @@ For more detail, please visit:
 More Practice:
 > [Angular 10 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-10-firebase-crud/)
 
+> [Angular 10 Firebase Storage: File Upload/Display/Delete example](https://bezkoder.com/firebase-storage-angular-10-file-upload/)
+
 > [Angular 10 CRUD application example with Web API](https://bezkoder.com/angular-10-crud-app/)
 
 Fullstack with Node.js Express:
@@ -16,7 +18,9 @@ Fullstack with Node.js Express:
 > [Angular 10 + Node.js Express + MongoDB](https://bezkoder.com/angular-10-mongodb-node-express/)
 
 Fullstack with Spring Boot:
-> [Angular 10 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-10-spring-boot-crud/)
+> [Angular 10 + Spring Boot + MySQL](https://bezkoder.com/angular-10-spring-boot-crud/)
+
+> [Angular 10 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-10-spring-boot-postgresql/)
 
 > [Angular 10 + Spring Boot + MongoDB](https://bezkoder.com/angular-10-spring-boot-mongodb/)
 
